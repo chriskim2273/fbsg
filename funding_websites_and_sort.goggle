@@ -1,7 +1,17 @@
 ! name: Custom Site Boost
 ! description: Reranks search results to boost a curated list of websites.
-! public: true
+! public: false
 ! author: chriskim2273
+
+$discard,site=tracxn.com
+$discard,site=finsmes.com
+$discard,site=crunchbase.com
+$discard,site=pitchbook.com
+$discard,site=privco.com
+$discard,site=owler.com
+$discard,site=cbinsights.com
+$discard,site=prequin.com
+$discard,site=factset.com
 
 $boost=3,site=arcticstartup.com
 $boost=3,site=bebeez.eu
@@ -92,4 +102,3 @@ $boost=3,site=news.fintech.io
 $boost=3,site=beamstart.com
 $boost=3,site=entrepreneurnewsnetwork.com
 $boost=3,site=bestofai.com
-
