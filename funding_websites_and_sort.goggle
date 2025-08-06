@@ -1,6 +1,6 @@
 ! name: Tiered Custom Site Boost
 ! description: Reranks search results to boost a curated list of websites with tiered priority.
-! public: true
+! public: false
 ! author: chriskim2273
 
 $discard,site=tracxn.com
@@ -659,3 +659,4 @@ $boost=1,site=energycentral.com
 $boost=1,site=cloudbrain.in
 $boost=1,site=english.vov.vn
 $boost=1,site=cloudsoda.io
+
