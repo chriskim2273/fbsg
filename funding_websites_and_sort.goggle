@@ -41,7 +41,7 @@ $discard,site=simplyhired.com
 $discard,site=nagajob.com
 $discard,site=ziprecruiter.com
 
-! --- DOWNRANK - ALREADY ACCOUNTED (>= 1%) ---
+! --- DOWNRANK (ALREADY ACCOUNTED) ---
 $downrank,site=www.prnewswire.com
 $downrank,site=www.globenewswire.com
 
@@ -689,6 +689,7 @@ $boost=1,site=energycentral.com
 $boost=1,site=cloudbrain.in
 $boost=1,site=english.vov.vn
 $boost=1,site=cloudsoda.io
+
 
 
 
