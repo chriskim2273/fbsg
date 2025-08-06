@@ -3,15 +3,43 @@
 ! public: false
 ! author: chriskim2273
 
-$discard,site=tracxn.com
-$discard,site=finsmes.com
+$discard,site=bloomberg.com
+$discard,site=wsj.com
 $discard,site=crunchbase.com
+$discard,site=cbinsights.com
+$discard,site=dealroom.com
+$discard,site=factset.com
+$discard,site=insideview.com
+$discard,site=tracxn.com
+$discard,site=owler.com
 $discard,site=pitchbook.com
 $discard,site=privco.com
-$discard,site=owler.com
-$discard,site=cbinsights.com
-$discard,site=prequin.com
-$discard,site=factset.com
+$discard,site=mattermark.com
+$discard,site=entrackr.com
+$discard,site=leadsontrees.com
+$discard,site=dnb.com
+$discard,site=opencorporates.com
+$discard,site=privatefunddata.com
+$discard,site=goodfirms.com
+$discard,site=bizapedia.com
+$discard,site=aum13f.com
+$discard,site=whalewisdom.com
+$discard,site=funds.aqr
+$discard,site=opencorpdata.com
+$discard,site=whoisraisingmoney.com
+$discard,site=whogotfunded.com
+$discard,site=bizstanding.com
+$discard,site=ftportfolios.com
+$discard,site=incfact.com
+$discard,site=infofree.com
+$discard,site=careerbuilder.com
+$discard,site=dice.com
+$discard,site=glassdoor.com
+$discard,site=indeed.com
+$discard,site=monster.com
+$discard,site=simplyhired.com
+$discard,site=nagajob.com
+$discard,site=ziprecruiter.com
 
 ! --- HIGH PRIORITY BOOST (>= 1%) ---
 $boost=5,site=www.prnewswire.com
@@ -659,4 +687,5 @@ $boost=1,site=energycentral.com
 $boost=1,site=cloudbrain.in
 $boost=1,site=english.vov.vn
 $boost=1,site=cloudsoda.io
+
 
