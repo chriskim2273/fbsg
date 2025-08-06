@@ -42,8 +42,8 @@ $discard,site=nagajob.com
 $discard,site=ziprecruiter.com
 
 ! --- DOWNRANK (ALREADY ACCOUNTED) ---
-$downrank,site=www.prnewswire.com
-$downrank,site=www.globenewswire.com
+$discard,site=www.prnewswire.com
+$discard,site=www.globenewswire.com
 
 ! --- HIGH PRIORITY BOOST (>= 1%) ---
 $boost=5,site=finance.yahoo.com
@@ -689,6 +689,7 @@ $boost=1,site=energycentral.com
 $boost=1,site=cloudbrain.in
 $boost=1,site=english.vov.vn
 $boost=1,site=cloudsoda.io
+
 
 
 
