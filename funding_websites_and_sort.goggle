@@ -1,9 +1,7 @@
 ! name: Custom Site Boost
 ! description: Reranks search results to boost a curated list of websites.
 ! public: true
-! author: Brave User
-
-$sort=freshness
+! author: chriskim2273
 
 $boost=3,site=arcticstartup.com
 $boost=3,site=bebeez.eu
@@ -94,3 +92,4 @@ $boost=3,site=news.fintech.io
 $boost=3,site=beamstart.com
 $boost=3,site=entrepreneurnewsnetwork.com
 $boost=3,site=bestofai.com
+
