@@ -1,0 +1,42 @@
+!name: AvoidPressReleases
+!description: A Brave Search Goggle that discards results from common press release, news wire, and tech news sites to avoid promotional or syndicated content.
+!public: false
+!author: FWAI
+
+$discard,site=businesswire.com
+$discard,site=prnewswire.com
+$discard,site=newswire.ca
+$discard,site=globenewswire.com
+$discard,site=finance.einnews.com
+$discard,site=technews180.com
+$discard,site=economictimes.indiatimes.com
+$discard,site=calcalistech.com
+$discard,site=timesofisrael.com
+$discard,site=asiatechdaily.com
+$discard,site=startuprise.co.uk
+$discard,site=startupmag.co.uk
+$discard,site=startuprise.org
+$discard,site=citybiz.co
+$discard,site=siliconcanals.com
+$discard,site=thesaasnews.com
+$discard,site=biospace.com
+$discard,site=latamlist.com
+$discard,site=betakit.com
+$discard,site=theblock.co
+$discard,site=spacenews.com
+$discard,site=contxto.com
+$discard,site=geekwire.com
+$discard,site=techinafrica.com
+$discard,site=startupdaily.net
+$discard,site=thetechfactor.ca
+$discard,site=todayafrica.co
+$discard,site=techfundingnews.com
+$discard,site=fintech.global
+$discard,site=finextra.com
+$discard,site=alleywatch.com
+$discard,site=arcticstartup.com
+$discard,site=refreshmiami.com
+$discard,site=techbeat.ca
+$discard,site=dallasinnovates.com
+$discard,site=therecursive.com
+$discard,site=ventureburn.com
